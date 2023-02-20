@@ -1,2 +1,2 @@
 # don-t-throw
-A mobile app to get rid of food wastes
+This app helps you to manage your food's expiration date.
